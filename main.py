@@ -1,4 +1,4 @@
-from modelos import Estudiante
+from modulos import Estudiante
 # Crear objetos
 estudiante1 = Estudiante("Nancy", "Tecnologías Biomédicas")
 estudiante2 = Estudiante("Eliud", "Tecnologías Biomédicas")
